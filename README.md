@@ -1,2 +1,2 @@
 # GatgetsTableAli
-Display Alibaba products data on table
+Display Searched products data on table
